@@ -1,0 +1,2 @@
+GitHub Repository URL: https://github.com/Aravindgajjela/Edviron-School-Management-Backend-code
+Hosted Project URL: https://managementschoolserver.onrender.com/
